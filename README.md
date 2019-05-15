@@ -1,4 +1,6 @@
 # hello-world
 hello-world repository
 
-This is my first time to use git hub, which is really wonderful.
+This is my FIRST time to use git hub, which is really wonderful.
+
+
